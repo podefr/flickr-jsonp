@@ -1,0 +1,24 @@
+{
+ "name": "flickr-jsonp",
+ "description": "A simple jsonp API for querying Flickr from the browser",
+ "version": "0.0.1",
+ "homepage": "http://podefr.github.com/flickr-jsonp/",
+ "licenses": [{
+  "type":"MIT",
+  "url":"https://raw.github.com/podefr/flickr-jsonp/master/LICENSE"
+ }],
+ "files": [
+ ],
+ "author": "Olivier Scherrer <pode.fr@gmail.com>",
+ "dependencies": {
+  },
+ "keywords": ["jsonp", "browser", "Flickr", "API"],
+ "repository": {
+  "type": "git",
+  "url": "git@github.com:podefr/flickr-jsonp.git"
+ },
+ "bugs": {
+  "url": "https://github.com/podefr/flickr-jsonp/issues"
+ },
+ "main":"index.js"
+}
